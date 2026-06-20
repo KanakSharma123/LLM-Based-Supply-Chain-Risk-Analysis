@@ -1,4 +1,6 @@
-openai
 pandas
+scikit-learn
+joblib
+google-generativeai
 python-dotenv
-tqdm
+numpy
